@@ -16,7 +16,7 @@
  <br/>
 
 # 📌Projects
-[Notion 으로 보기](https://ddori.notion.site/c13655db741a4dc29fe10ac3e12464ba)
+
 
 ### 1. [DevIT](https://devit.shop/)
 > 개발자 구인 구직 서비스 (팀 프로젝트) <br/>
