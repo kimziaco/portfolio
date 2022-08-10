@@ -55,4 +55,4 @@
 > 기술 스택: Python 3.8 / Flask / bs4 / requests / pymongo 4.1.1 / Jinja2 <br/>
 >
 > [프로젝트 상세 설명](https://github.com/kimziaco/Fashiony) 참고
----------------------------------
+
