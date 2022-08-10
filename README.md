@@ -13,4 +13,4 @@ https://github.com/kimziaco/Drop
 
 
 4. Devit(spring):
-https://github.com/kimziaco/devit-board
+https://github.com/kimziaco/DevIT
