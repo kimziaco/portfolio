@@ -4,7 +4,7 @@
  <br/>
  
 # 📌 Intro
-<b> 느리더라도🐢 [꾸준히 기록하고 성장하는](https://velog.io/@jeeho102/series/git) 백엔드 개발자 김지호입니다.🏃 </b><br/>
+<b> [꾸준히 회고하고 성장하는](https://velog.io/@jeeho102/series/git) 백엔드 개발자 김지호입니다.🏃 </b><br/>
 제 이력서는 [김지호 이력서](https://www.notion.so/7b6dcc5c27be4ac4808bfebaccf68a7b) 에서 확인 가능합니다. <br/>
  <br/>
  
@@ -18,7 +18,7 @@
 # 📌Projects
 
 
-### 1. [DevIT](https://devit.shop/)
+### 1. DevIT
 > 개발자 구인 구직 서비스 (팀 프로젝트) <br/>
 > 개발 기간 : 2022.06.24 ~ 2022.07.29 <br/>
 >
