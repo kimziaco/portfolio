@@ -4,8 +4,7 @@
  <br/>
  
 # 📌 Intro
-<b> [꾸준히 회고하고 성장하는](https://velog.io/@jeeho102/series/git) 백엔드 개발자 김지호입니다.🏃 </b><br/>
-제 이력서는 [김지호 이력서](https://www.notion.so/7b6dcc5c27be4ac4808bfebaccf68a7b) 에서 확인 가능합니다. <br/>
+<b> [꾸준히 회고하고 성장하는](https://velog.io/@jeeho102/series/git) 백엔드 개발자 김지호입니다.🏃 </b> <br/>
  <br/>
  
 # 📌Contact 
